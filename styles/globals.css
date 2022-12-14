@@ -1,0 +1,26 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #444;
+  color: #fff;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --area-porta-altura: 310px;
+  --area-porta-largura: 200px;
+  --p-porta: 15px;
+  --f-num: 3rem;
+  --b-porta: 5px solid brown;
+  --porta-select: 5px solid yellow;
+}
